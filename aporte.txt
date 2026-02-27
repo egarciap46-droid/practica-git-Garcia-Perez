@@ -1,0 +1,1 @@
+Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas están haciendo cambios en los mismos archivos al mismo tiempo
