@@ -1,2 +1,2 @@
-# practica-git-Garcia-Perez
-un repositorio creado como ejercicio practico
+# proyecto_progra
+un repositorio creado para guardar el proyecto
